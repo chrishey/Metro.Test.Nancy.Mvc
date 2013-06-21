@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metro.Test.Nancy.Mvc", "Metro.Test.Nancy.Mvc\Metro.Test.Nancy.Mvc.csproj", "{C06C75A0-CE6C-4E1B-AFE4-E28EFB6E5463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metro.Test.Nancy.Data", "Metro.Test.Nancy.Data\Metro.Test.Nancy.Data.csproj", "{664201CE-AD07-41EC-8EA4-D1114B662739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metro.Test.Nancy.Interfaces", "Metro.Test.Nancy.Interfaces\Metro.Test.Nancy.Interfaces.csproj", "{80B6810B-EAC3-4783-8448-0B0847251C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metro.Test.Nancy.Utility", "Metro.Test.Nancy.Utility\Metro.Test.Nancy.Utility.csproj", "{0713EF04-E6F8-4357-88FA-30D93E8B059C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C06C75A0-CE6C-4E1B-AFE4-E28EFB6E5463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06C75A0-CE6C-4E1B-AFE4-E28EFB6E5463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06C75A0-CE6C-4E1B-AFE4-E28EFB6E5463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06C75A0-CE6C-4E1B-AFE4-E28EFB6E5463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664201CE-AD07-41EC-8EA4-D1114B662739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664201CE-AD07-41EC-8EA4-D1114B662739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664201CE-AD07-41EC-8EA4-D1114B662739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664201CE-AD07-41EC-8EA4-D1114B662739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B6810B-EAC3-4783-8448-0B0847251C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B6810B-EAC3-4783-8448-0B0847251C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B6810B-EAC3-4783-8448-0B0847251C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B6810B-EAC3-4783-8448-0B0847251C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0713EF04-E6F8-4357-88FA-30D93E8B059C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0713EF04-E6F8-4357-88FA-30D93E8B059C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0713EF04-E6F8-4357-88FA-30D93E8B059C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0713EF04-E6F8-4357-88FA-30D93E8B059C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
